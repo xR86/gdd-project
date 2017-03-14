@@ -1,6 +1,9 @@
-# 
+# Temporary ignores
 docs/
+CameraHack/
 
+
+# ----- UE4 gitignore -----
 # Updated default gitignore
 # Visual Studio 2015 user specific files
 **/.vs/
