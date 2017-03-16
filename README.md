@@ -1,2 +1,2 @@
-# game-design-development
-repo for GDD course
+# gdd-project
+repo for GDD project

@@ -1,7 +1,9 @@
 # Temporary ignores
-docs/
 CameraHack/
 
+# Ignore safe files/folders
+**/safe_*
+**/safe/*
 
 # ----- UE4 gitignore -----
 # Updated default gitignore
