@@ -4,6 +4,10 @@ CameraHack/
 # Ignore safe files/folders
 **/safe_*
 **/safe/*
+*_back*
+
+# Ignore asset sources
+*.psd
 
 # ----- UE4 gitignore -----
 # Updated default gitignore
