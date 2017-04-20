@@ -1,5 +1,6 @@
 # Temporary ignores
 CameraHack/
+extra/
 
 # Ignore safe files/folders
 **/safe_*
