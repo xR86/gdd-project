@@ -10,6 +10,10 @@ extra/
 # Ignore asset sources
 *.psd
 
+# Ignore asset documentation
+docs_asset.md
+
+
 # ----- UE4 gitignore -----
 # Updated default gitignore
 # Visual Studio 2015 user specific files
